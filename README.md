@@ -2,6 +2,8 @@
 
 A quick and dirty implementation of spearman's rank  in python.
 [Wikipedia Article](http://wikipedia.moesalih.com/Spearman%27s_rank_correlation_coefficient)  
+
+- formulation
 ![formula](https://upload.wikimedia.org/math/e/5/4/e54fa2c9ffcd9d15ead57d1fd9c47e4a.png)  
 
 - example
